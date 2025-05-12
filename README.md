@@ -54,7 +54,7 @@ cd other_packages/qwen-vl-utils
 pip install -e . 
 ```
 
-### Benchmark Evaluation
+### Benchmark Evaluation (Accuracy)
 
 To evaluate our method AIM with the base model as LLaVA-OneVision-7B, simply run:
 
