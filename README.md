@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of AIM (ICCV 2025).
 
-> **AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning** [[Paper](https://arxiv.org/abs/2412.03248) [Poster](https://github.com/LaVi-Lab/AIM/tree/main/docs/ICCV_2025_Poster_AIM.pdf)] <br>
+> **AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning** [[Paper](https://arxiv.org/abs/2412.03248)] [[Poster](https://github.com/LaVi-Lab/AIM/tree/main/docs/ICCV_2025_Poster_AIM.pdf)] <br>
 > [Yiwu Zhong](https://scholar.google.com/citations?user=irrbH_IAAAAJ&hl=en)<sup>1</sup>, [Zhuoming Liu](https://scholar.google.com/citations?user=HXOVwRAAAAAJ&hl=en)<sup>2</sup>, [Yin Li](https://www.biostat.wisc.edu/~yli/)<sup>2</sup>, [Liwei Wang](https://lwwangcse.github.io/)<sup>#1</sup> <br>
 > <sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>University of Wisconsin-Madison <br>
 > (<sup>#</sup> corresponding author) <br>
